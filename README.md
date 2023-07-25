@@ -5,7 +5,7 @@ subject which I am very passionate about. I am interested in web
 technologies, and I am continuesly growing my skillset in trending
 solutions.
 
-###Skills:
+#### Skills:
 * React  
 * JS
 * HTML
