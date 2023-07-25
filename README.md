@@ -11,6 +11,7 @@ solutions.
 * HTML
 * CSS
 
+#### About Me:
 - 🔭 I’m currently working on my portfolio: wojciechmeck.netlify.app 
 - 🌱 I’m currently learning: MongoDB, Typescript, NextJS 
 - 📫 How to reach me: wojciechmeck@gmail.com
