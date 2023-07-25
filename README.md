@@ -5,7 +5,11 @@ subject which I am very passionate about. I am interested in web
 technologies, and I am continuesly growing my skillset in trending
 solutions.
 
-Skills: REACT / JS / HTML / CSS
+##Skills:
+* React  
+* JS
+* HTML
+* CSS
 
 - 🔭 I’m currently working on my portfolio: wojciechmeck.netlify.app 
 - 🌱 I’m currently learning: MongoDB, Typescript, NextJS 
