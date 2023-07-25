@@ -11,7 +11,12 @@ Skills: REACT / JS / HTML / CSS
 - 🌱 I’m currently learning: MongoDB, Typescript, NextJS 
 - 📫 How to reach me: wojciechmeck@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WMeck)](https://github.com/anuraghazra/github-readme-stats)
 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WMeck)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wojciechmeck/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://wojciechmeck@netlify.app)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WMeck)  
+
+![GitHub metrics](https://metrics.lecoq.io/WMeck)  
+
+![Profile views](https://gpvc.arturio.dev/WMeck)  
 
 ![Wojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMeck&show_icons=true&theme=dark)
