@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Wojtek
 #### I am a Junior Web Developer
-I am a graduate Web Developer and an aspiring Frontend Engineer, a
+A graduate Web Developer and an aspiring Frontend Engineer, a
 subject which I am very passionate about. I am interested in web
 technologies, and I am continuesly growing my skillset in trending
 solutions.
